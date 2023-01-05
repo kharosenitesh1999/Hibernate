@@ -4,7 +4,7 @@
   http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"
 	version="2.1">
 
-	<persistence-unit name="prasad">
+	<persistence-unit name="nitesh"> <!-- name- we can give any name . but name is imp we can access details of database -->
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 		
 		<properties>
